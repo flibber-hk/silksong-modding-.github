@@ -6,8 +6,8 @@ The following should be done before releasing a new core mod.
 * Check dependencies, tags etc in the thunderstore .toml file
 * Check that the owner is listed as silksong-modding in:
   - Thunderstore namespace (`silksong_modding`)
-  - Thunderstore website (`silksong-modding.org`)
-  - Website in the csproj (`silksong-modding.org`)
+  - Thunderstore website (`https://github.com/silksong-modding/REPO`)
+  - RepositoryUrl in the csproj (`https://github.com/silksong-modding/REPO`)
   - ID in the BepInAutoPlugin attribute (`org.silksong-modding.*`)
   - Copy target in the csproj (`silksong_modding`)
 
