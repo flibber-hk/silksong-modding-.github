@@ -10,3 +10,9 @@ The following should be done before releasing a new core mod.
   - Website in the csproj (`silksong-modding.org`)
   - ID in the BepInAutoPlugin attribute (`org.silksong-modding.*`)
   - Copy target in the csproj (`silksong_modding`)
+
+After checking all of the above:
+* Add API keys to the repo
+* Set the version to 1.0.0 (or whatever the initial version should be)
+* Set the release flag to true in the workflow
+  
